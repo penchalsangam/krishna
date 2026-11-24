@@ -1,0 +1,198 @@
+    1  ls
+    2  clear
+    3  pwd
+    4  git --version
+    5  pwd
+    6  cd myproject
+    7  pwd
+    8  ls
+    9  ls
+   10  clear
+   11  git init
+   12  git status
+   13  git add a.txt b.txt
+   14  git status
+   15  clear 
+   16  git config --global user.email "penchal1976@gmail.com"
+   17  git config --global user.name "penchalaiah"
+   18  git commit -m "this is my first commit"
+   19  git status
+   20  git log
+   21  git status
+   22  add a.txt b.txt
+   23  git add a.txt b.txt
+   24  git commit -a -m "both files are modified"
+   25  clear
+   26  git init
+   27  git add a.txt b.txt
+   28  git pwd
+   29  git status
+   30  git confit user.email "penchal1976@gmail.com"
+   31  clear
+   32  git config user.email "penchal1976@gmail.com"
+   33  git config user.name "penchalaiah"
+   34  git --version
+   35  ls
+   36  ls
+   37  git init
+   38  git status
+   39  git add a.txt b.txt
+   40  git status
+   41  git config --gobal user.email "penchal1976@gmail.com"
+   42  git config --gobal user.email "penchal1976@gmail.com"
+   43  git config --global user.email "penchal1976@gmail.com"
+   44  git config --global user.name "penchalaiah"
+   45  git commit -m "this is my first commit"
+   46  git status
+   47  clear
+   48  git log
+   49  git status
+   50  git status
+   51  git commit -a -m "both files are modified...."
+   52  git status
+   53  ls
+   54  pwd
+   55  clear
+   56  ls
+   57  pwd
+   58  pwd
+   59  ls
+   60  ls
+   61  pwd
+   62  pwd
+   63  ls
+   64  clear
+   65  pwd
+   66  cd myproject
+   67  pwd
+   68  ls
+   69  pwd
+   70  pwd
+   71  ls
+   72  git status
+   73  git init
+   74  git status
+   75  clear
+   76  ls
+   77  add a.txt b.txt
+   78  git add a.txt b.txt
+   79  git status
+   80  git config --global user.email "penchal1976@gmail.com"
+   81  git config --global user.name "penchalaiah"
+   82  git status
+   83  git commit
+   84  git status
+   85  git commit "my first commit"
+   86  ls
+   87  git status
+   88  git init
+   89  ls
+   90  clear
+   91  git status
+   92  git add -a
+   93  git add a.txt
+   94  git add b.txt
+   95  clear
+   96  git status
+   97  git config --global user.email "penchal1976@gmail.com"
+   98  git config --global user.name "penchalaiah"
+   99  git commit "myfirst commitment"
+  100  git commit -m "myfirst commitment"
+  101  git commit -a -m "both files are modified"
+  102  git log
+  103  vim file1.txt
+  104  vim file2.txt
+  105  add -a
+  106  git add -a
+  107  git init
+  108  git add -a
+  109  git add -a
+  110  ls
+  111  clear
+  112  vim file3.txt
+  113  ls
+  114  git add .
+  115  git status
+  116  git config --global user.email "penchal1976@gmail.com:
+  117  git init
+  118  git add index.html
+  119  git commit -m "Initial Commit"
+  120  https://githug.com/penchal/student-form.git
+  121  https://githug.com/penchal/index.git
+  122  git init
+  123  git add .
+  124  git branch -M main
+  125  git remote add origin https://github.com/penchalsangam/sample_train.git
+  126  git add .
+  127  git commit -m "feat: complete FastAPI TaskFlow mini project with SQLite, REST CRUD, and UI dashboard"
+  128  git push -u origin main
+  129    
+  130  git branch
+  131  git branch dev
+  132  git branch master
+  133  git branch git branch branch1
+  134  git branch branch2
+  135  git branch branch3
+  136  git branch branch4
+  137  git branch branch5
+  138  for i in {1..5}; do git branch branch$i; done
+  139  cls
+  140  clear
+  141  for i in {1..5}; do git branch branchlahari$i; done
+  142  git push origin main
+  143  git branch -M main
+  144  git push -u origin main
+  145  git config --global init.defaultBranch main
+  146  git config --list
+  147  git push --all origin
+  148  git push origin branchlahari1
+  149  git branch
+  150  git push --all origin
+  151  for i in {1..5}; do git push -u origin branchlahari$i; done
+  152  git push --all origin
+  153  clear
+  154  git add .
+  155  git commit -m"adding branches"
+  156  clear
+  157  git push -all origin
+  158  git push --all origin
+  159  git push --all origin
+  160  git branch branchlahari1
+  161  git chechout branchlahari1
+  162  clear
+  163  git branch
+  164  git add .
+  165  git branch
+  166  cls
+  167  clear
+  168  git log
+  169  git branch
+  170  git checkout branchlahari2
+  171  clear
+  172  git checkout main
+  173  echo feature  branch ->file3.txt
+  174  git log
+  175  cls
+  176  cls
+  177  clear
+  178  git show 9c7dfe0761389e9f752ca7c62a32424d9d83e806
+  179  git show --name-only 9c7dfe0761389e9f752ca7c62a32424d9d83e806
+  180  clsw
+  181  cls
+  182  clear
+  183  git reflog
+  184  exit
+  185  ls
+  186  python -v version
+  187  python --version
+  188  clear
+  189  git init
+  190  clear
+  191  ll
+  192  ls -lrth
+  193  ls -la
+  194  clear
+  195  git branch 
+  196  git clone https://github.com/penchalsangam/krishna.git
+  197  touch fil11.txt
+  198  history > fil11.txt
